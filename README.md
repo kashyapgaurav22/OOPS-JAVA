@@ -105,8 +105,8 @@ OOPS-JAVA/
 
 | Topic              | Status |
 | ------------------ | ------ |
-| Classes & Objects  | ⏳      |
-| Constructors       | ⏳      |
+| Classes & Objects  | ✅      |
+| Constructors       | ✅      |
 | Encapsulation      | ⏳      |
 | Inheritance        | ⏳      |
 | Polymorphism       | ⏳      |
