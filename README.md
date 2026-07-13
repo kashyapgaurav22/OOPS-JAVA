@@ -2,9 +2,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-OOPS-orange?style=for-the-badge&logo=java" alt="Java">
-  <img src="https://img.shields.io/github/repo-size/your-username/OOPS-JAVA?style=for-the-badge" alt="Repo Size">
-  <img src="https://img.shields.io/github/stars/your-username/OOPS-JAVA?style=for-the-badge" alt="Stars">
-  <img src="https://img.shields.io/github/license/your-username/OOPS-JAVA?style=for-the-badge" alt="License">
 </p>
 
 <h3 align="center">📚 My Journey to Master Object-Oriented Programming in Java</h3>
